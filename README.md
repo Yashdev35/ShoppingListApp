@@ -1,3 +1,3 @@
 this is a shopping list app
-\n
+/n
 created using kotlin
