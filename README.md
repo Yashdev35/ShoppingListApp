@@ -1,2 +1,3 @@
-this is a shopping list app\n
+this is a shopping list app
+\n
 created using kotlin
